@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Wierdio Clicker.exe" version="1.0.0.0" publicKeyToken="dc80c05ea3a9a623" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="wierdio_clicker_logo_ApQ_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Wierdio Clicker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Wierdio Clicker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wierdio Clicker.exe" size="99800">
+      <assemblyIdentity name="Wierdio Clicker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Us0xQAQobV61U4VogAsreleN0C+WUL4PqGjfGHndX88=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Wierdio Clicker.exe.config" size="1287">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FJrAFlD/WqVDbX/n2dZEkqxPSViosnnIiaCnDqq5aAE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Wierdio.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>i0GCP7lX+k9rKGN9z4YHfan+M3QlfNaQZLv2tv9QGnQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="wierdio_clicker_logo_ApQ_icon.ico" size="51078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cn7/BSQlROaZwi5gX7I/qOHdQrHZp1Eb5u/gtUDziTs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-TRS00V8\St M" issuerKeyHash="6009773466dac281eeb871846945dcbf684344a1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>sLu2MAMd3THmbBf9xi0kAz2NrAQ/Ukh4SC87NEzCXbI=</DigestValue></Reference></SignedInfo><SignatureValue>HBGxy3J05RAN6+YakBLdK0nqODitA7JhlZxAKtvXJ7Q1oZxS5YOO5Z9cpxJQOOcMpYrDcmWzwlBCyQjxZ+owaBum1xBbT+mkiVKAfBmVuO8Av4cxL/5mwZbaOHZipeetKAf6j/oCA+PBrU6V6SdP6py4N9E0ZEpXmnVk781bqRI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u6ZVtWOh5fn8bTJs+IqFV53F8ssDuwY3zNKHjTEDnY5FEN5vfWAWOvL67XS6TFDfGk3QcIV1GBJE+Ivpt2Oz6dltokB6PZ/fq1pX/TVNiLLZzH/8XtVk/sxGB9tkL8LWJkNPUJ+wcGtrmmWD6grHwQQiBsRktWGNoZPL6Ty1gvs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b25dc24c343b2f487848523f04ac8d3d03242dc6fd176ce631dd1d0330b6bbb0" Description="" Url=""><as:assemblyIdentity name="Wierdio Clicker.exe" version="1.0.0.0" publicKeyToken="dc80c05ea3a9a623" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-TRS00V8\St M</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wzfKR4/afsPC9KLWAw70ejr4gKO3Zb8C+R7nSuuiEG8=</DigestValue></Reference></SignedInfo><SignatureValue>iKieuxpfZbzdu8s+aJDSJMuA8pdHxsz3YLi/Cmo7EW4DIq3k54Mz0lg4nSiEkBNcKImkuYN0kVXJbKQOUJmbkutiXhaoLvBnd6O33Y2XsuzJlioP2zkVBBwZKeB0btqYZvP0f1zh16SM8FguatayRY41L4D2P4FQO6IpavlKUeY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u6ZVtWOh5fn8bTJs+IqFV53F8ssDuwY3zNKHjTEDnY5FEN5vfWAWOvL67XS6TFDfGk3QcIV1GBJE+Ivpt2Oz6dltokB6PZ/fq1pX/TVNiLLZzH/8XtVk/sxGB9tkL8LWJkNPUJ+wcGtrmmWD6grHwQQiBsRktWGNoZPL6Ty1gvs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQeVwTXjPXXYVJ2+23juezxzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAFQAUgBTADAAMABWADgAXABTAHQAIABNMB4XDTE3MDkyMjE3MzUwNloXDTE4MDkyMjIzMzUwNlowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBUAFIAUwAwADAAVgA4AFwAUwB0ACAATTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAu6ZVtWOh5fn8bTJs+IqFV53F8ssDuwY3zNKHjTEDnY5FEN5vfWAWOvL67XS6TFDfGk3QcIV1GBJE+Ivpt2Oz6dltokB6PZ/fq1pX/TVNiLLZzH/8XtVk/sxGB9tkL8LWJkNPUJ+wcGtrmmWD6grHwQQiBsRktWGNoZPL6Ty1gvsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQC1cEHKp1v6udmxWMIvrQdN6+0sxP/EWpkjP03rjmUGV4kLC9i8psH8rDexebMIBCUKsB636b3it1CL49Obv6EtnvfvFUuP/CulUcfwIyTOMwxZGHXf9nILQ9WF4g2/vC+IO6t0NxMFMTFO/BcfveXXETUaRpxZ5KRghRhVRXYXTw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

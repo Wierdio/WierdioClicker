@@ -1,0 +1,50 @@
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\st m\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\St M\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Shop.resources
+C:\Users\St M\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.UserControl1.resources
+C:\Users\St M\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.StartScreen.resources
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe.config
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.pdb
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.xml
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Shop.resources
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Form1.resources
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Resources.resources
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.StartScreen.resources
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.exe
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.xml
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.pdb
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe.manifest
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.application
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.exe.manifest
+C:\Users\St M\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.application
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe.config
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe.manifest
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.application
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.pdb
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.xml
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Shop.resources
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Form1.resources
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Resources.resources
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.StartScreen.resources
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.exe.manifest
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.application
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.exe
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.xml
+C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Wierdio Clicker.pdb
