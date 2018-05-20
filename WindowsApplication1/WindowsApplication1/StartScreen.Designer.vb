@@ -44,15 +44,15 @@ Partial Class StartScreen
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(47, 13)
         Me.Label2.TabIndex = 6
-        Me.Label2.Text = "Beta 6.1"
+        Me.Label2.Text = "Beta 7.0"
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("ObelixPro", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(174, 61)
+        Me.Label1.Font = New System.Drawing.Font("Comic Sans MS", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(175, 43)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(300, 33)
+        Me.Label1.Size = New System.Drawing.Size(297, 51)
         Me.Label1.TabIndex = 5
         Me.Label1.Text = "Wierdio Clicker"
         '
@@ -63,12 +63,14 @@ Partial Class StartScreen
         '
         'Label3
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Perpetua", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(288, 301)
+        Me.Label3.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Label3.Font = New System.Drawing.Font("Arial Narrow", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(0, 301)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(0, 15)
+        Me.Label3.Size = New System.Drawing.Size(677, 39)
         Me.Label3.TabIndex = 8
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'StartScreen
         '
@@ -81,6 +83,7 @@ Partial Class StartScreen
         Me.Controls.Add(Me.Label3)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "StartScreen"
+        Me.ShowIcon = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "StartScreen"
         Me.ResumeLayout(False)

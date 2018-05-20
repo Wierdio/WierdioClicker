@@ -36,7 +36,6 @@ C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\Windows
 C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.exe
 C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.pdb
 C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Wierdio Clicker.xml
-C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
 C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Shop.resources
 C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Form1.resources
 C:\Users\atlo9\Documents\Visual Studio 2017\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WierdioClicker.Resources.resources

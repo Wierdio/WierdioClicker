@@ -9,11 +9,11 @@
         If ProgressBar1.Value = 20 Then
             Label3.Text = "Starting..."
         ElseIf ProgressBar1.Value = 40 Then
-            Label3.Text = "Loading in Clicker Button"
+            Label3.Text = "Downloading fonts..."
         ElseIf ProgressBar1.Value = 60 Then
-            Label3.Text = "Loading In Clicker Counter"
+            Label3.Text = "Loading in Clicker Button..."
         ElseIf ProgressBar1.Value = 80 Then
-            Label3.Text = "Loading Some Background Stuff"
+            Label3.Text = "Loading In Clicker Counter and Store..."
         ElseIf ProgressBar1.Value = 100 Then
             Timer1.Stop()
             Me.Hide()

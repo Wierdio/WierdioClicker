@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wierdio Clicker.exe" size="100312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Wierdio Clicker.exe" size="169432">
       <assemblyIdentity name="Wierdio Clicker" version="6.4.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qNJ41a8FWtAQ4wDCztSfiAtRD+05ci2ctJw+2jNz9Ac=</dsig:DigestValue>
+        <dsig:DigestValue>lvDkwQ3R6F5XtvcHBdSiRMc6UmWnShVaBl1EqqyPbVA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
